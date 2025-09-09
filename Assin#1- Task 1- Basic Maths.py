@@ -1,0 +1,7 @@
+#Task1 - Simple calculations
+num1=int(input("Enter a number 1:"))
+num2=int(input("Enter a number 2:"))
+print("Addition =",num1+num2)
+print("Subtraction =",num1-num2)
+print("Multiplication =",num1*num2)
+print("Division =",num1/num2)
